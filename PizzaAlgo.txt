@@ -1,3 +1,9 @@
 1. Decide which business to order from
 2. Decide what type of pizza to order
-3. 
+3. Choose delivery
+4. Wait for the pizza to arrive
+5. Retrieve the pizza from the delivery person
+6. Tip the delivery person
+7. Enjoy the pizza
+8. Clean up the mess
+9. Wash hands and throw away the box
