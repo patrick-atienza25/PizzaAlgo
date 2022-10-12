@@ -5,3 +5,5 @@
 5. Retrieve the pizza from the delivery person
 6. Tip the delivery person
 7. Enjoy the pizza
+8. Clean up the mess
+9. Wash hands and throw away the box
